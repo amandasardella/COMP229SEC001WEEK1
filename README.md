@@ -1,0 +1,2 @@
+# COMP229SEC001WEEK1
+Week 1 Demo Project
